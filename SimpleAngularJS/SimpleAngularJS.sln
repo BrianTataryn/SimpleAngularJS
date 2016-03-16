@@ -3,36 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SimpleAngularJS(1)", "http://localhost:59006", "{31730410-B839-4E7F-9F8B-A79FA3705EDE}"
-	ProjectSection(WebsiteProperties) = preProject
-		UseIISExpress = "true"
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_59006"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\SimpleAngularJS\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59006\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_59006"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\SimpleAngularJS\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59006\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\WebSites\SimpleAngularJS\"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31730410-B839-4E7F-9F8B-A79FA3705EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31730410-B839-4E7F-9F8B-A79FA3705EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
